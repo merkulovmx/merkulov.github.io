@@ -15,15 +15,15 @@ Nortel Meridian - это телефонная станция.
 
   - Выбрать __New Session__ (рис. 1)
   
-  ![an image alt text](http://lepotuli.ru/merkulov/images/1image1.jpg "рис. 1")
+ ![an image alt text](http://lepotuli.ru/merkulov/images/1image1.jpg "рис. 1")
 
   - Вызвать список __Protocol__ и выбрать __Rlogin__ (рис. 2)
   
- +![an image alt text2](http://lepotuli.ru/merkulov/images/1image2.jpg "рис. 2")
+ ![an image alt text](http://lepotuli.ru/merkulov/images/1image2.jpg "рис. 2")
 
   - Нажать Далее и указать данные в поля __Hostname__(IP-адрес) и выбрать __Username__(например, CPSID1111) (рис. 3)
   
-  ![an image alt text3](http://lepotuli.ru/merkulov/images/1image3.jpg "рис. 3")
+ ![an image alt text](http://lepotuli.ru/merkulov/images/1image3.jpg "рис. 3")
 
 3. Подключение создано.
 
