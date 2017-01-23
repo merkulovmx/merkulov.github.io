@@ -14,16 +14,13 @@ Nortel Meridian - это телефонная станция.
   -  Правой кнопкой нажать по __Sessions__ 
 
   - Выбрать __New Session__ (рис. 1)
-  
- ![an image alt text](http://lepotuli.ru/merkulov/images/1image1.jpg "рис. 1")
+  ![an image alt text](http://lepotuli.ru/merkulov/images/1image1.jpg "рис. 1")
 
   - Вызвать список __Protocol__ и выбрать __Rlogin__ (рис. 2)
-  
- ![an image alt text](http://lepotuli.ru/merkulov/images/1image2.jpg "рис. 2")
-
+  ![an image alt text](http://lepotuli.ru/merkulov/images/1image2.JPG "рис. 2")
+ 
   - Нажать Далее и указать данные в поля __Hostname__(IP-адрес) и выбрать __Username__(например, CPSID1111) (рис. 3)
-  
- ![an image alt text](http://lepotuli.ru/merkulov/images/1image3.jpg "рис. 3")
+  ![an image alt text](http://lepotuli.ru/merkulov/images/1image3.JPG "рис. 3")
 
 3. Подключение создано.
 
@@ -40,15 +37,13 @@ logi Имя_пользователя
 
 При успешной аутентификации появится сообщение, что вход выполнен (рис. 4) 
 
-![an image alt text](http://lepotuli.ru/merkulov/images/1image4.jpg "рис. 4")
+![an image alt text](http://lepotuli.ru/merkulov/images/1image4.JPG "рис. 4")
 
 Иначе ошибка входа. (рис. 5)
-
-![an image alt text](http://lepotuli.ru/merkulov/images/1image5.jpg "рис. 5")
+![an image alt text](http://lepotuli.ru/merkulov/images/1image5.JPG "рис. 5")
 
 #### Чтобы завершить работу со станцией нужно набрать команду __logo__ и затем только нажать __Disconnect__. (рис. 6)
-
-![an image alt text](http://lepotuli.ru/merkulov/images/1image6.jpg "рис. 6")
+![an image alt text](http://lepotuli.ru/merkulov/images/1image6.JPG "рис. 6")
 
 ----
 ****
