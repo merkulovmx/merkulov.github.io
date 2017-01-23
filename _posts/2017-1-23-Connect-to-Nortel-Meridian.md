@@ -14,6 +14,7 @@ Nortel Meridian - это телефонная станция.
   -  Правой кнопкой нажать по __Sessions__ 
 
   - Выбрать __New Session__ (рис. 1)
+  ![an image alt text]({{ site.baseurl }}/images/1image1.jpg "рис. 1")
 
   - Вызвать список __Protocol__ и выбрать __Rlogin__ (рис. 2)
 
