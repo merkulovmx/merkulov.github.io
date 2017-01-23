@@ -40,10 +40,10 @@ logi Имя_пользователя
 ![an image alt text](http://lepotuli.ru/merkulov/images/1image4.JPG "рис. 4")
 
 Иначе ошибка входа. (рис. 5)
+
 ![an image alt text](http://lepotuli.ru/merkulov/images/1image5.JPG "рис. 5")
 
 #### Чтобы завершить работу со станцией нужно набрать команду __logo__ и затем только нажать __Disconnect__. (рис. 6)
+
 ![an image alt text](http://lepotuli.ru/merkulov/images/1image6.JPG "рис. 6")
 
-----
-****
