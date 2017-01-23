@@ -19,7 +19,7 @@ Nortel Meridian - это телефонная станция.
 
   - Вызвать список __Protocol__ и выбрать __Rlogin__ (рис. 2)
   
-  ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+  ![an image alt text]({{ site.baseurl }}merkulov/images/jekyll-logo.png "an image title")
 
   - Нажать Далее и указать данные в поля __Hostname__(IP-адрес) и выбрать __Username__(например, CPSID1111) (рис. 3)
 
