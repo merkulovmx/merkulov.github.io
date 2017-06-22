@@ -3,21 +3,17 @@ layout: default
 ref: index
 lang: ru
 ---
-<div class="home">
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-  <ul class="posts">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Развернуть</a>
+    </article>
+  {% endfor %}
 </div>
