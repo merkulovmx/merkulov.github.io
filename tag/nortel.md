@@ -1,6 +1,6 @@
 ---
 layout: nortel
-title: "Tag: Nortel"
+title: "Tag: nortel"
 tag: nortel
 robots: noindex
 ---
