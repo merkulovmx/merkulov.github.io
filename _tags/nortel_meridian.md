@@ -1,5 +1,5 @@
 ---
 layout: nortel
-title: Nortel
+title: "Tag: Nortel"
+tag: nortel
 ---
-[Nortel]
