@@ -17,7 +17,6 @@ description: Net Administration
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-site: lepotuli.ru
   dribbble:
   email:
   facebook:
@@ -42,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://www.lepotuli.ru
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
