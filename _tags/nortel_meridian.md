@@ -1,4 +1,5 @@
 ---
-slug: nortel_meridian
-name: Nortel Meridian
+layout: nortel
+title: Nortel
 ---
+[Nortel]
