@@ -1,3 +1,8 @@
+
+---
+category: network
+tags: [nortel]
+---
 ### Как подключиться к станции Nortel Meridian
 
 Nortel Meridian - это телефонная станция. (старая, как советские времена)
