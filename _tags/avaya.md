@@ -1,4 +1,5 @@
 ---
-slug: avaya
-name: Avaya
+layout: avaya
+title: "Tag: avaya"
+tag: avaya
 ---
