@@ -6,10 +6,10 @@ permalink: /about/
 
 
 
-### More Information
+### Чуть-чуть
 
-A place to include any other types of information that you'd like to include about yourself.
+Сохраняю знания в сеть.
 
-### Contact me
+### До связи
 
 [merkulovmx@gmail.com](mailto:merkulovmx@gmail.com)
