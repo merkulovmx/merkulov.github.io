@@ -9,7 +9,7 @@ name: Merkulov Maksim
 description: Net Administration
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://lepotuli.ru/merkulov/images/logo.png
+#avatar: http://lepotuli.ru/merkulov/images/logo.png
 
 #
 # Flags below are optional
@@ -17,6 +17,7 @@ avatar: http://lepotuli.ru/merkulov/images/logo.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+site: lepotuli.ru
   dribbble:
   email:
   facebook:
