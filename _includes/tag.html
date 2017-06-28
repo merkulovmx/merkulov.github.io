@@ -1,18 +1,10 @@
-{% assign rawtags = "" %}
-{% for post in site.posts %}
-  {% assign ttags = post.tags | join:'|' | append:'|' %}
-  {% assign rawtags = rawtags | append:ttags %}
+{% if page.tags %}
+<ul class="post-tags">  
+{% for tag in page.tags %}
+  {% assign found_tags = site.topics | where: "slug", tag %}
+  {% for tag in found_tags limit:1 %} 
+  <li><a href="{{ tag.url }}" title="{{ tag.title }}">{{ tag.slug }}</a></li>
+  {% endfor %}
 {% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
-
-{% assign site.tags = "" %}
-{% for tag in rawtags %}
-  {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
-    {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-    {% endunless %}
-  {% endif %}
-{% endfor %}
+</ul>
+{% endif %}
