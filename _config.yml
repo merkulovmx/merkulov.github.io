@@ -4,7 +4,7 @@
 collections:
   tag:
     output: true
-     permalink: /blog/tag/:name/
+     permalink: /tag/:name/
     # permalink: /tags/:name/
     
 # Name of your site (displayed in the header)
