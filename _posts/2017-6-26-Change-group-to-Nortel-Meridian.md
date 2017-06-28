@@ -2,7 +2,7 @@
 layout: post
 title: Как изменить переадресацию вызовов Nortel Meridian
 description: 
-tags: nortel
+tags: [nortel]
 ---
 
 ### Как изменить переадресацию вызовов Nortel Meridian

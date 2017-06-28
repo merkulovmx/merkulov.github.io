@@ -2,7 +2,7 @@
 layout: post
 title: Как подключиться к станции Nortel Meridian
 description: 
-tags: nortel
+tags: [nortel]
 ---
 
 ### Как подключиться к станции Nortel Meridian
