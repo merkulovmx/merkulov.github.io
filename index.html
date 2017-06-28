@@ -3,7 +3,7 @@ layout: default
 ref: index
 lang: ru
 ---
-<div class="posts">
+<!-- <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -18,3 +18,42 @@ lang: ru
   {% endfor %}
 </div>
 
+ -->
+ <html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1><a href="/">Justice</a></h1>
+      <nav>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/services/">Services</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/advice/">Advice</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <section class="main">
+      <div class="container">
+        <p>Justice Law is professional representation. Practicing for over 50 years, our team have the knowledge and skills to get you results.</p>
+
+        <blockquote class="testimonial">
+          <p class="testimonial-message">Justice Law are the best of the best. Being local, they care about people and have strong ties to the community.</p>
+          <p class="testimonial-author">
+            <img src="/images/peter.jpeg" alt="Photo of Peter Rottenburg"> Peter Rottenburg
+          </p>
+        </blockquote>
+      </div>
+    </section>
+
+    <footer>
+      <p class="copyright">
+        &copy; 2016
+      </p>
+    </footer>
+  </body>
+</html>
