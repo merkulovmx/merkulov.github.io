@@ -2,9 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 collections:
-  tags:
+  tag:
     output: true
-    permalink: /tags/:name/
+     permalink: /blog/tag/:name/
+    # permalink: /tags/:name/
     
 # Name of your site (displayed in the header)
 name: Merkulov Maksim
