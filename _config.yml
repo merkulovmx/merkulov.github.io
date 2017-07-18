@@ -5,7 +5,7 @@ collections:
   tag:
     output: true
      # permalink: pretty
-    permalink: /tag/:name/
+    permalink: /merkulov/tag/:name/
     
 # Name of your site (displayed in the header)
 name: Merkulov Maksim
