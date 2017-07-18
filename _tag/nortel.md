@@ -1,6 +1,6 @@
 ---
 layout: nortel
-title: "Tag: nortel"
-tag: nortel
-robots: noindex
+slug: nortel
+name: nortel
+whatever: another value
 ---

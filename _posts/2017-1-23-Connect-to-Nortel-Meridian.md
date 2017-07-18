@@ -4,7 +4,6 @@ title: Как подключиться к станции Nortel Meridian
 description: 
 tags: [nortel]
 ---
-
 ### Как подключиться к станции Nortel Meridian
 
 Nortel Meridian - это телефонная станция. (старая, как советские времена)

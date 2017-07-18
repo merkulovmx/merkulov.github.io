@@ -1,6 +1,6 @@
 ---
 layout: avaya
-title: "Tag: avaya"
-tag: avaya
-robots: noindex
+slug: avaya
+name: avaya
+whatever: another value
 ---
