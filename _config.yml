@@ -48,7 +48,7 @@ google_analytics:
 # Used for Sitemap.xml and your RSS feed
 # domain: lepotuli.ru
 url: http://lepotuli.ru/merkulov/
-title: lepotuli.ru
+title: http://lepotuli.ru/merkulov/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
