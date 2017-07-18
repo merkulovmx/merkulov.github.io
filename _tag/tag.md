@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Все темы
-permalink: /tags/
+permalink: /tag/
 ---
-{% include tags.html %}
+{% include tag.html %}

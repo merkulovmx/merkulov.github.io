@@ -4,17 +4,14 @@
 collections:
   tag:
     output: true
-     permalink: pretty
-    # permalink: /tags/:name/
+     # permalink: pretty
+    permalink: /tag/:name/
     
 # Name of your site (displayed in the header)
 name: Merkulov Maksim
 
 # Short bio or description (displayed in the header)
 description: Net Administration
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://lepotuli.ru/merkulov/images/logo.png
 
 #
 # Flags below are optional
@@ -81,9 +78,10 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
-  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  # - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+# gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+# gems:
+#   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+#   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:
