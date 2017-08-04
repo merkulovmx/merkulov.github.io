@@ -2,10 +2,13 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
-  
- <span class="post-tags">
+{% if page.lang %}
+<div class="post" lang="{{page.lang}}">
+{% else %}
+<div class="post">
+{% endif %}
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-tags">
     [&nbsp;
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
@@ -13,14 +16,27 @@ layout: default
     {% endfor %}
     ]
   </span>
-  
-  <div class="entry">
-    {{ content }}
-  </div>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
 
-  {% include disqus.html %}
-</article>
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      {% if post.lang %}
+      <li lang="{{ post.lang }}">
+      {% else %}
+      <li>
+      {% endif %}
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
