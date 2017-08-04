@@ -1,94 +1,32 @@
-#
-# This file contains configuration flags to customize your site
-#
-collections:
-  tag:
-    output: true
-     # permalink: pretty
-    permalink: /merkulov/tag/:name/
-    
-# Name of your site (displayed in the header)
-name: Merkulov Maksim
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-# Short bio or description (displayed in the header)
-description: Net Administration
+# Permalinks
+permalink:        pretty
 
-#
-# Flags below are optional
-#
+# Setup
+title:            Merkulov Maksim
+tagline:          'Merkulov Maksim'
+description:      'My work.<br>My interests in this blog'
+url:              http://lepotuli.ru/merkulov/
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+author:
+  name:           'Merkulov Maksim'
+  url:            http://lepotuli.ru/merkulov/
 
+paginate:         2
+# google_analytics: 'UA-91425204-3'
+# bing_seo:     'ECA8D4503D79297E7BB223666F18CAF8'
+# emailme:          mailto:lqian8@jhu.edu
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-domain: http://lepotuli.ru/merkulov/
-url: http://lepotuli.ru/merkulov/
-title: http://lepotuli.ru/merkulov/
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: http://lepotuli.ru/merkulov/
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-# permalink: /:title/
-
-# The release of Jekyll Now that you're using
-# version: v1.2.0
-version: v3.3.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-# gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
-# gems:
-#   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-#   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 github:
-  repo:           https://github.com/DomenZero/merkulov.git/
+  repo:           https://github.com/DomenZero/merkulov.git
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+# tags:
+
+# github_username:  qian256
+# facebook_username: joe.qian
+# linkedin_username: long-qian
