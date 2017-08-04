@@ -20,7 +20,7 @@ paginate:         2
 # bing_seo:     'ECA8D4503D79297E7BB223666F18CAF8'
 # emailme:          mailto:lqian8@jhu.edu
 
-gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+# gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 github:
   repo:           https://github.com/DomenZero/merkulov.git
