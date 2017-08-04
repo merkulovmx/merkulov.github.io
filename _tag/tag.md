@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Все темы
-permalink: /tag/
+permalink: /merkulov/tag/
 ---
 {% include tag.html %}
