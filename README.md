@@ -1,3 +1,2 @@
-# www.lepotuli.ru/merkulov
+# merkulovmx.github.io 
 
-Copyright (c) 2017 Merkulov Maksim
