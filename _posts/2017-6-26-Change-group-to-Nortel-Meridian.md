@@ -1,8 +1,13 @@
 ---
 layout: post
 title: Как изменить переадресацию вызовов Nortel Meridian
-description: 
-tags: [nortel]
+date: Mon Jun 26 23:56:41 2017 +0200
+author: merkulov
+tags:
+- nortel
+- telephony
+comments: true
+---
 ---
 
 ### Как изменить переадресацию вызовов Nortel Meridian

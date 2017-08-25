@@ -1,3 +1,1 @@
-# www.lepotuli.ru/merkulov
-
-Copyright (c) 2017 Merkulov Maksim
+This is the repo generating: http://jovandeginste.github.io

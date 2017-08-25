@@ -1,0 +1,21 @@
+@import "_layout.scss";
+
+ul.share-buttons{
+	list-style: none;
+	padding: 0;
+}
+
+ul.share-buttons li{
+	display: inline;
+}
+ul.share-buttons a{
+	text-decoration: none;
+	&:hover {
+		color: red;
+	}
+}
+p.share-buttons {
+	@extend .post-meta;
+	float: left;
+	padding-right: 1em;
+}

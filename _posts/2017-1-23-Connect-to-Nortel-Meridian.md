@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Как подключиться к станции Nortel Meridian
-description: 
-tags: [nortel]
+date: Mon Jan 23 22:56:41 2017 +0200
+author: merkulov
+tags:
+- nortel
+- telephony
+comments: true
 ---
 ### Как подключиться к станции Nortel Meridian
 
