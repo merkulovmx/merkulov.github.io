@@ -103,7 +103,7 @@ KEY  00 SCR 2057 0     MARP
      05     
 DATE 22 APR 2016 
 {% endhighlight %}{: .highlight-left }
-Сохраняем на всякий случай. [Инструкция по конфигурационным командам] (https://yadi.sk/i/cEUjXcoo3MTNAh)
+Сохраняем на всякий случай. [Инструкция по конфигурационным командам](https://yadi.sk/i/cEUjXcoo3MTNAh)
 
 2. Удаляем номер 2057
 {% highlight javascript %}
