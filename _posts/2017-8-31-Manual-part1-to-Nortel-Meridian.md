@@ -80,11 +80,10 @@ CUST: 0
 На выходе будет таблица вида:
 
 | Аппарат | Дата создания | TN | Модель | Номер телефона |
-| --- | --- | --- | --- | --- |
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | ~~Display the~~ help window.|
-| Close     | _Closes_ a window     |
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 #### 7. Вывести список всего ncos (Параметр разрешения/ограничения выхода пользователя дальше в сеть)
 {% highlight javascript %}
 >LD 81
