@@ -78,8 +78,13 @@ REQ: lst
 CUST: 0
 {% endhighlight %}{: .highlight-left }
 На выходе будет таблица вида:
+
 | Аппарат | Дата создания | TN | Модель | Номер телефона |
 | --- | --- | --- | --- | --- |
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
 #### 7. Вывести список всего ncos (Параметр разрешения/ограничения выхода пользователя дальше в сеть)
 {% highlight javascript %}
 >LD 81
