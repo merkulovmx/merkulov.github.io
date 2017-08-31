@@ -4,10 +4,5 @@ title: About
 permalink: /about/
 ---
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello! I'm Maxim Merkulov and I'm truth seek in Web. It is my notes =)
+{% include icon-github.html username="jglovier" %} 
