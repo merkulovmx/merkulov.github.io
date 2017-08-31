@@ -112,8 +112,7 @@ REQ: out
 TYPE: 3902
 TN   14 3
 {% endhighlight %}{: .highlight-left }
-
-2. Создаем номер 2564 на освободившийся порт 14 3
+#### 3. Создаем номер 2564 на освободившийся порт 14 3
 {% highlight javascript %}
 ld 20
 
@@ -159,7 +158,7 @@ MGMT001 TNB NEW TYPE:3902 TN:14 0 0 3
 
 MEM AVAIL: (U/P): 2718916    USED U P: 220133 59223    TOT: 2998272 
 {% endhighlight %}{: .highlight-left }
-#### 3. После стоит отредактировать __CLS__ параметры
+#### 4. После стоит отредактировать __CLS__ параметры
 Например для модели 3904 разрешая многое. Для 3902 почти тоже самое в зависимости от задач.
 
 {% highlight javascript %}
@@ -180,8 +179,7 @@ ITEM
 
 MGMT001 TNB CHG TYPE:3904  TN:14 0 0 3
 {% endhighlight %}{: .highlight-left }
-
-#### 4. Задать имя пользователя, через LD 95
+#### 5. Задать имя пользователя, через LD 95
 
 {% highlight javascript %}
 ld 95
