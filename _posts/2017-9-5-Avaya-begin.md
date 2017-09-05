@@ -78,4 +78,4 @@ change station 8060 (рис. 5)
 
 ![an image alt text](http://lepotuli.ru/merkulov/images/5image5.jpg "рис. 5")
 
-*P.S. Круговорот телефонных станций в природе* 
+*Мысль в слух. Круговорот телефонных станций в природе* 
