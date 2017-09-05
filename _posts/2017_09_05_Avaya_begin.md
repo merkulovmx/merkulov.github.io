@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Как подключиться к станции Avaya.
-date: Tue Sep 5 12:30:41 2017 +0200
+date: Tue Sep 5 12:12:41 2017 +0200
 author: merkulov
 tags:
 - avaya 
