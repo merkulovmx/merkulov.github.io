@@ -25,7 +25,7 @@ Avaya - это телефонная станция. (рассматриваем 
   - Логин, Пароль, повтор пароля (рис. 1)
   ![an image alt text](http://lepotuli.ru/merkulov/images/5image1.jpg "рис. 1")
   - IP-адрес и порт (рис. 2)
-  ![an image alt text](http://lepotuli.ru/merkulov/images/5image2.JPG "рис. 2")
+  ![an image alt text](http://lepotuli.ru/merkulov/images/5image2.jpg "рис. 2")
 3. Подключение создано.
 
 Для запуска подключения, нажимаем Start GEDI. 
@@ -37,7 +37,7 @@ Avaya - это телефонная станция. (рассматриваем 
 2. Вкладка Tree показывает дерево подключений, а также команды, которые можно вызывать.
 3. Список комманд.
 4. Отключиться от станции.
-![an image alt text](http://lepotuli.ru/merkulov/images/5image3.JPG "рис. 3")
+![an image alt text](http://lepotuli.ru/merkulov/images/5image3.jpg "рис. 3")
 **Следует помнить, что до завершения работы со станцией лучше сохранить изменения.** 
 **Иначе скачек напряжения или экстренный перезапуск станции уничтожит все изменения.**
 
@@ -51,7 +51,7 @@ save translation
 **Иногда в столбце пусто - если нет привязки к местному.**
 **В зависимости от логики может и на группу местных номеров вести.** 
 ### Набираем __list ars digit-conversion__ (рис. 4)
-![an image alt text](http://lepotuli.ru/merkulov/images/5image4.JPG "рис. 4")
+![an image alt text](http://lepotuli.ru/merkulov/images/5image4.jpg "рис. 4")
 
 1404526 - гор. номер
 8060 - местный
@@ -62,4 +62,4 @@ save translation
 3. Имя пользователя тел. аппарата
 4. Coverage Path - группы переадресации. В данном случае номер входит аж в две
 5. COR, COS - ограничение для номера, например разрешен выход в город.
-![an image alt text](http://lepotuli.ru/merkulov/images/5image5.JPG "рис. 5")
+![an image alt text](http://lepotuli.ru/merkulov/images/5image5.jpg "рис. 5")
