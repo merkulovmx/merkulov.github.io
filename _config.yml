@@ -16,7 +16,6 @@ baseurl: "/merkulov" # the subpath of your site, e.g. /blog
 url: "www.lepotuli.ru/merkulov" # the base hostname & protocol for your site
 github_username:  DomenZero
 linkedin_username: domenzero
-google_plus_username: lepotuli
 
 # Build settings
 markdown: kramdown
