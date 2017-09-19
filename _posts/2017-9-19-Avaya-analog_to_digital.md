@@ -25,7 +25,7 @@ comments: true
 
 При попытке поменять аналоговый на цифровой появится сообщение об ошибке.(рис 3. Ошибка)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/8image3jpg "рис. 3)
+![an image alt text](http://lepotuli.ru/merkulov/images/8image3.jpg "рис. 3)
 
 ### Вариант 2. Аналог на цифру
 Открываем ASA. Подключаемся через режим __Start GEDI__. 
