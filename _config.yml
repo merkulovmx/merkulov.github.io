@@ -20,5 +20,5 @@ linkedin_username: domenzero
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-sitemap
-  - jemoji
+    - jekyll-sitemap
+    - jemoji
