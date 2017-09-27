@@ -24,7 +24,7 @@ Cкачиваем и запускаем [Putty](http://www.putty.org/)
 
 2. Подключаемся к удаленному Dionis.
 *!Если Dionis в режиме master, то ключ необходимо установить и на slave*
-{% highlight javascript %}]
+{% highlight javascript %}
 DionisNX[master]#cluster connect
 {% endhighlight %}{: .highlight-left }
 
