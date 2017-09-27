@@ -18,15 +18,15 @@ Cкачиваем и запускаем [Putty](http://www.putty.org/)
 
 ![an image alt text](http://lepotuli.ru/merkulov/images/9image1.jpg "рис. 1 Параметры сессии в Putty")
 
-- обязательно разрешаем ведение лога сессии (рис. 2   )
+- обязательно разрешаем ведение лога сессии (рис. 2 Настройки для лога)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/8image3.jpg "рис. 3")
+![an image alt text](http://lepotuli.ru/merkulov/images/9image2.jpg "рис. 2 Настройки для лога")
 
 2. Подключаемся к удаленному Dionis.
 *!Если Dionis в режиме master, то ключ необходимо установить и на slave*
-*{% highlight javascript %}]
+{% highlight javascript %}]
 DionisNX[master]#cluster connect
-{% endhighlight %}{: .highlight-left }*
+{% endhighlight %}{: .highlight-left }
 
 - Вводим логин, пароль, смотрим наличие flash-карты, сверяем версию ключей, загружаем, сохраняем
 
