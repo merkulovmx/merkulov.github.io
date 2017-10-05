@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Посмотреть лицензии, версию, релиз
+title: Посмотреть лицензии, версию, релиз Nortel
 date: Thu Oct 5 11:10:41 2017 +0200
 author: merkulov
 tags:
@@ -8,7 +8,7 @@ tags:
 - telephony
 comments: true
 ---
-### Узнать сколько лицензий и версию 
+### Узнать сколько лицензий и версию Nortel
 
 *В наушниках играет Amantra &mdash; Just For Today*
 
