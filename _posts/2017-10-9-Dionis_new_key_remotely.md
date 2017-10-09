@@ -17,7 +17,7 @@ comments: true
 - Указываем путь к папке (рис. 1 Пункт 1)
 - IP (рис. 1 Пункт 2)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/10image1.jpg "рис. 1 Параметры сессии в tftpd")
+![an image alt text](http://lepotuli.ru/merkulov/images/11image1.jpg "рис. 1 Параметры сессии в tftpd")
 
 
 1. Подключаемся удаленно к DionisNX, через Putty (см. настройку в посте ["Загрузить ключ на DionisNX c flash-карты"](http://lepotuli.ru/merkulov/2017/09/27/Dionis_new_key.html))
