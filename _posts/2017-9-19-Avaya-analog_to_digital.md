@@ -17,15 +17,15 @@ comments: true
 - Нажимаем в левом, боковом меню __Swap Stations__ 
 - Вводим номера аппаратов в поля __Extension__ (рис1. 2435 и 2419)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/8image1.jpg "рис. 1")
+![an image alt text](https://merkulovmx.github.io/images/8image1.jpg "рис. 1")
 
 - Далее. Далее. Соглашаемся с операцией. Готово.(рис 2. Даем согласие)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/8image2.jpg "рис. 2")
+![an image alt text](https://merkulovmx.github.io/images/8image2.jpg "рис. 2")
 
 При попытке поменять аналоговый на цифровой появится сообщение об ошибке.(рис 3. Ошибка)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/8image3.jpg "рис. 3")
+![an image alt text](https://merkulovmx.github.io/images/8image3.jpg "рис. 3")
 
 ### Вариант 2. Аналог на цифру
 Открываем ASA. Подключаемся через режим __Start GEDI__. 
