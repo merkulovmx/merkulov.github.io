@@ -24,11 +24,11 @@ Avaya - это телефонная станция. (рассматриваем 
 3. Всяко всё введенное можно изменить затем в System -> Properties
   - Логин, Пароль, повтор пароля (рис. 1)
   
-  ![an image alt text](http://lepotuli.ru/merkulov/images/5image1.jpg "рис. 1")
+  ![an image alt text](http://merkulovmx.github.io/images/5image1.jpg "рис. 1")
   
   - IP-адрес и порт (рис. 2)
   
-  ![an image alt text](http://lepotuli.ru/merkulov/images/5image2.jpg "рис. 2")
+  ![an image alt text](http://merkulovmx.github.io/images/5image2.jpg "рис. 2")
   
 *Подключение создано.*
 
@@ -42,7 +42,7 @@ Avaya - это телефонная станция. (рассматриваем 
 2. Вкладка Tree показывает дерево подключений, а также команды, которые можно вызывать.
 3. Список комманд.
 4. Отключиться от станции.
-![an image alt text](http://lepotuli.ru/merkulov/images/5image3.jpg "рис. 3")
+![an image alt text](http://merkulovmx.github.io/images/5image3.jpg "рис. 3")
 *Следует помнить, что до завершения работы со станцией лучше сохранить изменения.*
 *Иначе скачек напряжения или экстренный перезапуск станции уничтожит все изменения.*
 
@@ -60,7 +60,7 @@ save translation
 list ars digit-conversion (рис. 4)
 {% endhighlight %}{: .highlight-left }
 
-![an image alt text](http://lepotuli.ru/merkulov/images/5image4.jpg "рис. 4")
+![an image alt text](http://merkulovmx.github.io/images/5image4.jpg "рис. 4")
 
 1404526 - гор. номер
 8060 - местный
@@ -76,6 +76,6 @@ change station 8060 (рис. 5)
 4. Coverage Path - группы переадресации. В данном случае номер входит в две группы
 5. COR, COS - ограничение для номера, например разрешен выход в город.
 
-![an image alt text](http://lepotuli.ru/merkulov/images/5image5.jpg "рис. 5")
+![an image alt text](http://merkulovmx.github.io/images/5image5.jpg "рис. 5")
 
 *__Мысль в слух.__ "Круговорот телефонных станций в природе"* 
