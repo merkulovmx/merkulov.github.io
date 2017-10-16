@@ -1,3 +1,3 @@
-# merkulov.github.io 
+# merkulovmx.github.io
 
-Copyright (c) 2017 Merkulov Maksim
+Notes of the truth seeker programmer
