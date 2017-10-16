@@ -21,7 +21,7 @@ change system-parameters features
 - Переходим на вкладку 5
 - Distinctive Audible Alerting: Internal, External, Priority (рис1. Настройки звукового сигнала для приоритетов)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/10image1.jpg "рис. 1 Настройки звукового сигнала для приоритетов")
+![an image alt text](https://merkulovmx.github.io/images/10image1.jpg "рис. 1 Настройки звукового сигнала для приоритетов")
 
 - В командной строке вводим команду __change feature-access-codes__, настройки перенаправления
 {% highlight javascript %}
@@ -30,4 +30,4 @@ change feature-access-codes
 - Переходим на вкладку 3
 - Приоритетный звонок выставляется в графе __Priority Calling Access Code__ (рис. 2 Настройка приоритетного звонка)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/10image2.jpg "рис. 2 Настройка приоритетного звонка")
+![an image alt text](https://merkulovmx.github.io/images/10image2.jpg "рис. 2 Настройка приоритетного звонка")
