@@ -11,7 +11,7 @@ tags.map(&:downcase).uniq.each do |tag|
 ---
 layout: tagpage
 tag: #{tag}
-permalink: /merkulov/tags/#{tag}
+permalink: /tags/#{tag}
 ---
 	EOF
 end
