@@ -20,7 +20,7 @@ comments: true
 ![an image alt text](http://lepotuli.ru/merkulov/images/11image1.jpg "рис. 1 Параметры сессии в tftpd")
 
 
-1. Подключаемся удаленно к DionisNX, через Putty (см. настройку в посте ["Загрузить ключ на DionisNX c flash-карты"](http://lepotuli.ru/merkulov/2017/09/27/Dionis_new_key.html))
+1. Подключаемся удаленно к DionisNX, через Putty (см. настройку в посте ["Загрузить ключ на DionisNX c flash-карты"](https://merkulovmx.github.io/2017/09/27/Dionis_new_key.html))
 
 {% highlight javascript %}
 login as: login
