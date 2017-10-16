@@ -45,7 +45,7 @@ list extension-type cor 1 to cor 4 //вывести с 1 по 4
 list groups-ox-extension 1319 (рис.1 1319 - номер телефона, 185 - группа переадресации, 404 - pickup группа)
 {% endhighlight %}{: .highlight-left }
 
-![an image alt text](http://lepotuli.ru/merkulov/images/6image1.jpg "рис. 1")
+![an image alt text](https://merkulovmx.github.io/images/6image1.jpg "рис. 1")
 
 ### 4. Операции с тел. станцией
 
@@ -66,7 +66,7 @@ display system-parametrs customer-options (Рис. 2 Здесь V11, 235 - вс�
 list conf all // список плат и задействованных портов
 {% endhighlight %}{: .highlight-left }
 
-![an image alt text](http://lepotuli.ru/merkulov/images/6image2.jpg "рис. 2")
+![an image alt text](https://merkulovmx.github.io/images/6image2.jpg "рис. 2")
 
 ### 6. Установка времени
 
@@ -74,7 +74,7 @@ list conf all // список плат и задействованных пор�
 set time (Рис. 3 Главное указать все параметры)
 {% endhighlight %}{: .highlight-left }
 
-![an image alt text](http://lepotuli.ru/merkulov/images/6image3.jpg "рис. 3")
+![an image alt text](https://merkulovmx.github.io/images/6image3.jpg "рис. 3")
 
 ### 7. Перезагрузить порт
 
