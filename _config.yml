@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a NetSysAdmin at a FTI TAX "Nalog-Service" SPb in IT department. I try to learn some
   network and telephony technology.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "merkulov.github.io" # the base hostname & protocol for your site
+url: "lepotuli.ru" # the base hostname & protocol for your site
 github_username:  DomenZero
 linkedin_username: domenzero
 
