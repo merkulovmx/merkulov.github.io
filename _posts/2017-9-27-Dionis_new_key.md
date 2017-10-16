@@ -16,11 +16,11 @@ comments: true
 Cкачиваем и запускаем [Putty](http://www.putty.org/)
 - настраиваем сессию. Указывваем IP _xx.0.*.7_ Тип подключения SSH. Порт 22 (рис. 1 Параметры сессии в Putty) 
 
-![an image alt text](http://lepotuli.ru/merkulov/images/9image1.jpg "рис. 1 Параметры сессии в Putty")
+![an image alt text](http://merkulovmx.github.io/images/9image1.jpg "рис. 1 Параметры сессии в Putty")
 
 - обязательно разрешаем ведение лога сессии (рис. 2 Настройки для лога)
 
-![an image alt text](http://lepotuli.ru/merkulov/images/9image2.jpg "рис. 2 Настройки для лога")
+![an image alt text](http://merkulovmx.github.io/images/9image2.jpg "рис. 2 Настройки для лога")
 
 2. Подключаемся к удаленному Dionis.
 *!Если Dionis в режиме master, то ключ необходимо установить и на slave*
