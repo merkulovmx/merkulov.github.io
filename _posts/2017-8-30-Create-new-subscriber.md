@@ -145,7 +145,7 @@ IAPG 0
 MLWU_LANG 0
 MLNG rus
 DNDR 0
-KEY 00 scr 2564 0
+KEY 00 scr 2564 0 // для 3904 = KEY 00 mcr 2564 0 и KEY 01 mcr 2564 0
   MARP
   CPND 
   VMB 
