@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Просмотр ограничений и установка сетевого типа услуг ncos на Nortel
-date: Tue Oct 24 12:00:41 2017 +0200
+date: Tue Oct 24 11:30:41 2017 +0200
 author: merkulov
 tags:
 - nortel
