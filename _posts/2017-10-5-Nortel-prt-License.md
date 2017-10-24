@@ -56,7 +56,7 @@ DCH                       80    LEFT    78    USED     2
 TMDI D-CHANNELS           64    LEFT    64    USED     0 
 {% endhighlight %}{: .highlight-left }
 
-### 2. Узнать сколько лицензий. Команда __ld 22__
+### 2. Узнать версию и релиз. Команда __ld 22__
 {% highlight javascript %}
 ld 22 
 
