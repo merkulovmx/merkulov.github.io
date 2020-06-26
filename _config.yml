@@ -12,7 +12,7 @@ email: merkulovmx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Considering I am not working with old physical phone systems.
   I decided to make a new blog with my accumulated experience. 
-  It is the link about it https://merkulovmx.gitlab.io/
+  It is the link about it [merkulovmx.gitlab.io](https://merkulovmx.gitlab.io)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://merkulovmx.github.io" # the base hostname & protocol for your site
 github_username:  DomenZero
