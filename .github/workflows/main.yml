@@ -76,7 +76,7 @@ jobs:
         run : |
           aws elasticbeanstalk update-environment \
           --environment-name ${{env.EB_ENV_NAME}} \
-          --version "Ver-${{github.sha}}"
+          --version-label "Ver-${{github.sha}}"
               
       - name: A message about of the end of operations
         run : echo "Deploy completed!"
