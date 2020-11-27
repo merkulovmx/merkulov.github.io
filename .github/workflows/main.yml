@@ -4,7 +4,7 @@ name: CI-CD-Pipeline-to-AWS-site
 env:
   EB_PACKAGE_S3_BUCKET: "test-python-application-packages"
   EB_APPLICATION      : "ProjectBlog"
-  EB_ENV_NAME         : "Projectblog-env"
+  EB_ENV_NAME         : "ProjectBlog-env"
   DEPLOY_PACKAGE_NAME : "blog_web_${{github.sha}}.zip"
   AWS_REGION_NAME     : "us-east-1"
   
@@ -67,16 +67,13 @@ jobs:
       - name: Create new ElasticBeanstalk App
         run : |
           aws elasticbeanstalk create-application-version \
-          --application-name ${{env.EB_APPLICATION}}\
-          --source-bundle S3Bucket="${{env.EB_PACKAGE_S3_BUCKET}}",S3Key="${{env.DEPLOY_PACKAGE_NAME}}"\
+          --application-name ${{env.EB_APPLICATION}} \
+          --source-bundle S3Bucket="${{env.EB_PACKAGE_S3_BUCKET}}",S3Key="${{env.DEPLOY_PACKAGE_NAME}}" \
           --version-label "Ver-${{ github.sha }}" \
           --description "CommitSHA-${{github.sha}}"
           
       - name: Deploy new ElasticBeanstalk App
-        run : |
-          aws elasticbeanstalk update-environment \
-          --environment-name ${{env.EB_ENV_NAME}} \
-          --version-label "Ver-${{ github.sha }}"
+        run : aws elasticbeanstalk update-environment --environment-name ${{ env.EB_ENV_NAME }} --version-label "Ver-${{ github.sha }}"
               
       - name: A message about of the end of operations
         run : echo "Deploy completed!"
