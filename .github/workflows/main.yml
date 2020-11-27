@@ -34,7 +34,7 @@ jobs:
 
       # Create zip-package
       - name: Create Zip deployment package
-        run: zip -r {{env.DEPLOY_PACKAGE_NAME}} ./ -x *.git* 
+        run: zip -r ${{ env.DEPLOY_PACKAGE_NAME }} ./ -x *.git* 
       
       # Connect with a AWS
       - name: Setup AWS credentials
