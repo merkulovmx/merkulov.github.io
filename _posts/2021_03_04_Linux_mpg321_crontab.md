@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux: Using crontab and mpg321 to play songs for International Women's Day"
-date: 2021-03-07
+date: Sun Mar 7 22:56:41 2021 +0200
 draft: false
 author: Maksim Merkulov
 tags: 
